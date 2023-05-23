@@ -1,2 +1,1 @@
-# prepcurs-henrry
-Este es un repositorio de prueba del modulo 3 sobre el curso de henrry
+Este proyecto es una prueba de como crear un repositorion en github y clonarlo en mi escritorio local 
